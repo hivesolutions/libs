@@ -1,0 +1,3 @@
+[submodule "uxf"]
+	path = uxf
+	url = https://github.com/hivesolutions/uxf_bin.git
