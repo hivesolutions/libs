@@ -1,3 +1,6 @@
 [submodule "uxf"]
 	path = uxf
 	url = https://github.com/hivesolutions/uxf_bin.git
+[submodule "layout"]
+	path = layout
+	url = https://github.com/hivesolutions/layout.git
