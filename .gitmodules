@@ -4,3 +4,6 @@
 [submodule "layout"]
 	path = layout
 	url = https://github.com/hivesolutions/layout.git
+[submodule "pushi"]
+	path = pushi
+	url = https://github.com/hivesolutions/pushi_js.git
